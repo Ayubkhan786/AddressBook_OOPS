@@ -114,7 +114,7 @@ namespace AddressBook_OOPS
                 Console.WriteLine("*******************************************************************");
 
             }
-
+            Console.WriteLine("*******************-----------------------------------------------------------------**************************");
 
         }
             public void Edit()
@@ -165,7 +165,25 @@ namespace AddressBook_OOPS
                     {
                         Console.WriteLine("The name Doesn't Exist Enter the correct name");
                     }
+                   
                 }
+            }
+            Console.WriteLine("*******************-----------------------------------------------------------------**************************");
+        }
+        public void Delete()
+        {
+            contactList.Remove(contactList[2]);
+
+            foreach (var contacts in contactList)
+            {
+                Console.WriteLine(contacts.Name);
+                Console.WriteLine(contacts.Address);
+                Console.WriteLine(contacts.city);
+                Console.WriteLine(contacts.State);
+                Console.WriteLine(contacts.email);
+                Console.WriteLine(contacts.Zip);
+                Console.WriteLine(contacts.phone);
+                Console.WriteLine("*******************************************************************");
             }
         }
     }
