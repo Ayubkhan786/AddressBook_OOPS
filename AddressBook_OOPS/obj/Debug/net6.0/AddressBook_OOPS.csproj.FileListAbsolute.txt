@@ -1,0 +1,15 @@
+C:\Users\Ayub\source\repos\AddressBook_OOPS\AddressBook_OOPS\bin\Debug\net6.0\AddressBook_OOPS.exe
+C:\Users\Ayub\source\repos\AddressBook_OOPS\AddressBook_OOPS\bin\Debug\net6.0\AddressBook_OOPS.deps.json
+C:\Users\Ayub\source\repos\AddressBook_OOPS\AddressBook_OOPS\bin\Debug\net6.0\AddressBook_OOPS.runtimeconfig.json
+C:\Users\Ayub\source\repos\AddressBook_OOPS\AddressBook_OOPS\bin\Debug\net6.0\AddressBook_OOPS.dll
+C:\Users\Ayub\source\repos\AddressBook_OOPS\AddressBook_OOPS\bin\Debug\net6.0\AddressBook_OOPS.pdb
+C:\Users\Ayub\source\repos\AddressBook_OOPS\AddressBook_OOPS\obj\Debug\net6.0\AddressBook_OOPS.csproj.AssemblyReference.cache
+C:\Users\Ayub\source\repos\AddressBook_OOPS\AddressBook_OOPS\obj\Debug\net6.0\AddressBook_OOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayub\source\repos\AddressBook_OOPS\AddressBook_OOPS\obj\Debug\net6.0\AddressBook_OOPS.AssemblyInfoInputs.cache
+C:\Users\Ayub\source\repos\AddressBook_OOPS\AddressBook_OOPS\obj\Debug\net6.0\AddressBook_OOPS.AssemblyInfo.cs
+C:\Users\Ayub\source\repos\AddressBook_OOPS\AddressBook_OOPS\obj\Debug\net6.0\AddressBook_OOPS.csproj.CoreCompileInputs.cache
+C:\Users\Ayub\source\repos\AddressBook_OOPS\AddressBook_OOPS\obj\Debug\net6.0\AddressBook_OOPS.dll
+C:\Users\Ayub\source\repos\AddressBook_OOPS\AddressBook_OOPS\obj\Debug\net6.0\refint\AddressBook_OOPS.dll
+C:\Users\Ayub\source\repos\AddressBook_OOPS\AddressBook_OOPS\obj\Debug\net6.0\AddressBook_OOPS.pdb
+C:\Users\Ayub\source\repos\AddressBook_OOPS\AddressBook_OOPS\obj\Debug\net6.0\AddressBook_OOPS.genruntimeconfig.cache
+C:\Users\Ayub\source\repos\AddressBook_OOPS\AddressBook_OOPS\obj\Debug\net6.0\ref\AddressBook_OOPS.dll
