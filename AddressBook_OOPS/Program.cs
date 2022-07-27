@@ -15,11 +15,13 @@ addressBook.Delete();
 addressBook.Display();
 
 
-Collection collection = new Collection();
-collection.MultiCon();
+//Collection collection = new Collection();
+//collection.MultiCon();
 
 
-
+MultiAddressBook multi = new MultiAddressBook();
+multi.AddBook("AddressBookOne");
+multi.AddContact("AddressBookOne");
 
 
 
