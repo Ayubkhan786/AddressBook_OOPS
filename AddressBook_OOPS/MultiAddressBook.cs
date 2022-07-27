@@ -8,7 +8,35 @@ namespace AddressBook_OOPS
 {
     public class MultiAddressBook
     {
-        Dictionary<string, AddressBook> addresses = new Dictionary<string, AddressBook>();
+       static Dictionary<string, AddressBook> multiaddresses = new Dictionary<string, AddressBook>();
 
+
+
+        public void AddBook(string BookName)
+        {
+            Console.WriteLine("Add Book");
+            string Bookname = Console.ReadLine();
+            AddressBook Book;
+            if (!multiaddresses.ContainsKey(Bookname))
+            {
+                multiaddresses.Add(Bookname, new AddressBook());
+            }
+        }
+        public void AddContact(string BookName)
+        {
+            AddressBook book;
+            if (!multiaddresses.ContainsKey(BookName))
+            {
+                book = new AddressBook();
+            }
+            else
+            {
+                book = multiaddresses[BookName];
+
+            }
+            book.Add();
+            multiaddresses[BookName] = book;
+
+        }
     }
 }
